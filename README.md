@@ -6,3 +6,5 @@ This is a modification of a processing sketch that was created by Andrew Odewahn
 
 The purpose of this processing sketch is to take binocular 3D images and turn them into media
 that is more easily viewable on standard monitors.
+
+I first published this as a comment on the above blog in March 2012.
